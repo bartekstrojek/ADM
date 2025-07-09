@@ -1,0 +1,16 @@
+{
+    "global.aboutUs":"O nas",
+    "global.portfolio":"Portfolio",
+    "global.advertisingSpaces":"Dostępne miejsca reklamowe",
+    "global.services":"Usługi",
+    "global.contact":"Kontakt",
+
+    "contact.sendButton":"Wyślij",
+
+    "hero.mainSlogan":"Główne hasło",
+
+    "footer.cookies":"Polityka Cookies",
+    "footer.privacy":"Polityka Prywatności",
+    "footer.advertisers":"Reklamodawacy",
+    "footer.advertisees":"Reklamobiorcy"
+}
